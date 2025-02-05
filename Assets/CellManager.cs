@@ -13,7 +13,6 @@ public class CellManager : MonoBehaviour
     public List<Material> cellLifeStage;
 
     public float cycleDurationSeconds;
-    public int numberOfCycles;
 
     private Vector3 areaDimension;
     private Vector3 cellDimension;
